@@ -18,6 +18,7 @@ FireRedVAD supports non-streaming/streaming VAD and non-streaming AED. It suppor
 
 
 ## 🔥 News
+- [2026.03.12] We release FireRedASR2S (including FireRedVAD) technical report. See [arXiv](https://arxiv.org/abs/2603.10420).
 - [2026.03.03] We release FireRedVAD as a standalone repository, along with model weights and inference code.
 - [2026.02.12] We release [FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S) (FireRedASR2-AED, FireRedVAD, FireRedLID, and FireRedPunc) with model weights and inference code.
 
