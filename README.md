@@ -210,6 +210,8 @@ FireRedVAD achieves SOTA performance, outperforming Silero-VAD, TEN-VAD, FunASR-
 
 Note: FunASR-VAD achieves low Miss Rate but at the cost of high False Alarm Rate (44.03%), indicating over-prediction of speech segments.
 
+## Runtime 
+Now support NCNN for multiplatform, see [runtime](runtime)
 
 
 ## FAQ
