@@ -11,4 +11,7 @@ What’s included
 More details in [NCNN README.md](ncnn/)
 
 ## onnxruntime
-TODO
+
+### Rust
+
+- [wavekat-vad](https://github.com/wavekat/wavekat-vad) — Stream VAD with pure Rust Mel filterbank + CMVN preprocessing
