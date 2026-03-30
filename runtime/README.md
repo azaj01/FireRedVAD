@@ -14,4 +14,4 @@ More details in [NCNN README.md](ncnn/)
 
 ### Rust
 
-- [wavekat-vad](https://github.com/wavekat/wavekat-vad) — Stream VAD with pure Rust Mel filterbank + CMVN preprocessing
+- [Rust ONNX Example](../examples/rust-onnx-example/) — Stream VAD using [wavekat-vad](https://github.com/wavekat/wavekat-vad) with pure Rust Mel filterbank + CMVN preprocessing
